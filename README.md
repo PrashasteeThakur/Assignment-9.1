@@ -35,7 +35,7 @@ Ans.Apache Pig includes a language, Pig Latin, for expressing the data flows. Pi
 
 7.. Is Pig latin commands case sensitive?
 
-Ans.No,The pig latin commands are case insensitive.
+Ans.No,The pig latin commands are case insensitive.Commands LOAD, USING, AS, GROUP, BY, FOREACH, GENERATE, and DUMP are case insensitive. They can also be written as load, using, as, group, by, etc.
 
 
 8.What is a data flow language?
